@@ -1,7 +1,7 @@
 const aInput = document.getElementById("a")
 const bInput = document.getElementById("b")
 const cInput = document.getElementById("c")
-const btnCalcola = document.getElementById("btn-Calola")
+const btnCalcola = document.getElementById("btn-calcola")
 
 
 btnCalcola.addEventListener("click", () => {
